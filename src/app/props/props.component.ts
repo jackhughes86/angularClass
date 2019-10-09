@@ -33,5 +33,5 @@ export class PropsComponent implements OnInit {
 
 }
 
-const props = new PropsComponent('Uzair', 21, true, 'Hussain');
+const props = new PropsComponent('keith', 25, true, 'Lemongello');
 props.printAll();
